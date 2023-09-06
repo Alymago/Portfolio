@@ -9,3 +9,14 @@ Portfolio é uma apresentação que inclui informações sobre mim, projetos que
 
 ## Layout web
 ![Web 1](https://github.com/Alymago/Portfolio/blob/main/assets/desktop1.png)
+
+# Tecnologias utilizadas 
+- HTML / CSS / JS
+
+# Implementação em produção
+- GitHub Pages
+
+# Autor
+
+Alysson Manoel Godoy
+https://www.linkedin.com/in/Alymago
