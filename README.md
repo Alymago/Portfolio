@@ -6,7 +6,7 @@ Portfolio é uma apresentação que inclui informações sobre mim, projetos que
 
 ## Layout mobile
 ###Mobile 1
-![Mobile 1](https://github.com/Alymago/Portfolio/blob/main/assets/mobile1.png) <br><br> ###Mobile 2 ![Mobile 2](https://github.com/Alymago/Portfolio/blob/main/assets/mobile2.png)
+![Mobile 1](https://github.com/Alymago/Portfolio/blob/main/assets/mobile1.png) <\br><\br> ###Mobile 2 ![Mobile 2](https://github.com/Alymago/Portfolio/blob/main/assets/mobile2.png)
 
 ## Layout web
 ![Web 1](https://github.com/Alymago/Portfolio/blob/main/assets/desktop1.png)
